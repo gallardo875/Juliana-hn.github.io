@@ -1,0 +1,130 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.custom-navbar{
+    background-color: rgb(252, 204, 228);
+    color: black;
+}
+
+.card-body > .custom-button{
+    background-color: rgb(237, 201, 133);
+}
+
+.col-12 > .custom-button{
+    background-color: rgb(237, 201, 133);
+}
+
+header {
+    display: grid;
+    justify-content: center;  
+    align-items: center;      
+    height: 400px;       
+}
+
+.HeaderContainer {
+    display: flex;            
+    align-items: center;      
+    gap: 20px;                
+}
+
+.ImagenHeader {
+    flex-shrink: 0;   
+    padding-right: 10px;    
+}
+
+.InfoHeader {
+    display: flex;  
+    flex-direction: column;          
+    justify-content: center;      
+    margin-bottom: 8px;   
+    padding-left: 40px;    
+}
+  
+.InfoHeader i {
+    margin-right: 10px;        
+}
+
+.imagen-circular {
+    width: 250px; 
+    height: 250px;
+    border-radius: 50%; 
+    object-fit: cover;
+    margin-left: 25%;
+    margin-right: 20px;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+.row{
+ margin-left: 15px;
+ margin-right: 15px;    
+}
+
+.DivExperienciaLab{
+    padding-left: 15%;
+}
+
+h2, h3{
+    border-bottom: 2px solid rgb(254, 187, 63);
+    padding: 10px;
+}
+
+.TextoHeader{
+    animation: typing 2s steps(15), blink .5s infinite step-end alternate;
+}
+
+.iguana_page img{
+    width: 100%;
+  height: 100%; 
+  object-fit: cover;
+
+}
+
+.row{
+    row-gap: 20px;
+}
+
+.col-md-3{
+    padding: 20px;
+}
+
+.col-md-9 {
+    padding: 20px;
+    border-left: 2px solid rgb(252, 204, 228);
+}
+
+.list-inline-item{
+    transform: scale(1);
+    transition: 0.3s;
+}
+
+.list-inline-item:hover{
+    transform: scale(0.8);
+}
+
+.MisRedes{
+    background-color: rgb(252, 204, 228);
+    height: 200px;
+    align-content: center;
+}
+.custom-footer{
+    background-color: rgb(237, 201, 133);
+}
+
+.custom-proyectos {
+    background-color: rgb(237, 201, 133);
+    height: 650px;
+}
+
+.custom-educacion{
+    background-color: rgb(252, 204, 228);
+    height: 400px;
+}
+
+.btn-social i{
+    font-size: 45px;
+    }
