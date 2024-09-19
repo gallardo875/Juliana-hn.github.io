@@ -1,6 +1,6 @@
 Módulo 1 DesafíoLatam
 
-Currículum y portadolio en: https://juliana-hn.github.io/
+Currículum y portafolio en: https://juliana-hn.github.io/
 Se utilizó el primer archivo index.html del desafío 1, modificándolo por completo utizando los conocimientos adquiridos hasta ahora.
 
 Forkeo de proyectos:
